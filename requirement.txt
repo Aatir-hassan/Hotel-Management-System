@@ -1,0 +1,8 @@
+gunicorn
+Flask  
+# OR: Django (if you used Django)
+
+# Add any other libraries your code explicitly imports, such as:
+# tk
+# pillow
+# requests
